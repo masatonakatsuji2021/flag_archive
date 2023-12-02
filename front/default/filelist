@@ -1,0 +1,13 @@
+/src/app/Exception/Exception.ts
+/src/app/View/MainView.ts
+/src/app/View/PageView.ts
+/src/app/View/View.ts
+/src/app/config/app.ts
+/src/common/css/style.css
+/src/index.html
+/src/rendering/Template/default.html
+/src/rendering/View/error/index.html
+/src/rendering/View/main.html
+/src/rendering/View/page.html
+/src/rendering/ViewPart/footer.html
+/src/rendering/ViewPart/header.html
