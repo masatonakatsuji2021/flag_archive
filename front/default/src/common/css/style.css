@@ -1,4 +1,24 @@
 body{
-    background:#444;
+    margin:0;
+    padding:0;
+    background:#136;
     color:#e0e0e0;
+}
+a{
+    color:#7af;
+    cursor:pointer;
+}
+header{
+    padding:10px;
+    font-size:16px;
+}
+.contents{
+    background:#333;
+    padding:10px;
+}
+footer{
+    padding:10px;
+}
+.error{
+    color:#f84;;
 }
