@@ -1,3 +1,18 @@
 <h2>Page2 Sample</h2>
 
-<p><a v-on-click="clickHandle">Click Here</a></p>
+<div>
+    <p><a v-on-click="clickHandle">Click Here</a></p>
+    <div v-show-viewpart="page2viewpart"></div>
+</div>
+
+<div style="text-align:right"><a v-on-click="addHandle">+ add</a></div>
+
+<table style="width:100%">
+    <thead>
+        <th>name</th>
+        <th>code</th>
+        <th></th>
+        <th></th>
+    </thead>
+    <tbody ref="target"></tbody>
+</table>
