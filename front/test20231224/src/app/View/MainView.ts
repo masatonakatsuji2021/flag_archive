@@ -2,6 +2,8 @@ import View from "app/View/View";
 
 export default class MainView extends View{
 
-    public handle(){}
+    public handle(){
+        console.log("...OK");    
+    }
 
 }
